@@ -24,7 +24,7 @@ This project performs real-time sentiment analysis on Reddit posts using Python.
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/real-time-sentiment-analysis.git
+    git clone https://github.com/garimadiyawar/real-time-sentiment-analysis.git
     cd real-time-sentiment-analysis
     ```
 
